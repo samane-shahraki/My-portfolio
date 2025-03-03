@@ -5,7 +5,7 @@
 ## 📂 Folder Structure   
 - **📂 Photo-Edits** → Samples of my photo editing projects (some are limited due to client confidentiality).   
 - **📂 View-Counts** → Screenshots of view performance for my edited videos.
-- - **📂 Presentation** → My introduction PowerPoint. 
+- **📂 Presentation** → My introduction PowerPoint. 
 
 
 
