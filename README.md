@@ -2,10 +2,10 @@
 
 📌 Welcome to my portfolio! This repository includes samples of my work in **video editing, photo editing, and social media content creation**.  
 
-## 📂 Folder Structure  
-- **📂 Presentation** → My introduction PowerPoint.  
+## 📂 Folder Structure   
 - **📂 Photo-Edits** → Samples of my photo editing projects (some are limited due to client confidentiality).   
-- **📂 View-Counts** → Screenshots of view performance for my edited videos.  
+- **📂 View-Counts** → Screenshots of view performance for my edited videos.
+- - **📂 Presentation** → My introduction PowerPoint. 
 
 
 
